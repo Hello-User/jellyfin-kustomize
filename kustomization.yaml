@@ -2,3 +2,4 @@ resources:
   - 000-namespace.yaml
   - 010-service.yaml
   - 030-deployment.yaml
+  - 040-ingress.yaml
